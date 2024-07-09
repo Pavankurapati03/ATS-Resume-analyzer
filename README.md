@@ -10,8 +10,8 @@ This Streamlit web application helps analyze resumes against job descriptions us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ats-resume-expert.git
-   cd ats-resume-expert
+   git clone https://github.com/<your-username>/ATS-Resume-analyzer.git
+   cd ats-resume-analyzer
    ```
 
 2. Install dependencies:
