@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For Queries, Reach out on [LinkedIn](https://www.linkedin.com/in/pavankumar-kurapati/)  
 Resume Analyzer - Making Job Applications Easier
 
-## Check out my project : https://ats-resume-analyzer-dx8s8v6thppy44bxgsmrwf.streamlit.app/
+#### Check out my project : https://ats-resume-analyzer-dx8s8v6thppy44bxgsmrwf.streamlit.app/
