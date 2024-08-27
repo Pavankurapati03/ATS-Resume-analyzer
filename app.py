@@ -31,8 +31,8 @@ def parse_resume(uploaded_file):
         raise FileNotFoundError("No file uploaded")
 
 # Streamlit APP
-st.set_page_config(page_title="ATS Resume Expert by SIM")
-st.header("ATS Tracking System")
+st.set_page_config(page_title="ATS System")
+st.header("ATS System")
 input_text = st.text_area("Job Description: ", key="input")
 uploaded_file = st.file_uploader("Upload your resume (PDF)...", type=["pdf"])
 
